@@ -11,5 +11,5 @@ This file contains the .ino sketch for the data collection implementation. Edge 
 ## ei-eep-595-ai-roma-arduino-1.0.49.zip
 This .zip file contains the compiled library we include in Artificial_Nose.ino which is the output of the Edge Impulse model compression. This library has been integer quentized for optimal space and accuracy.
 
-## ei-eep-t9t-ai-roma-classifier1.zip
+## ei-eep-595-ai-roma-classifier1.zip
 This .zip file contains the files Edge Impulse uses for the classifier we wrote. The files within this .zip folder are necessary to edit the classifier locally if the user desires.
